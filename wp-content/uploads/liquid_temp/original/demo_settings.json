@@ -1,0 +1,15 @@
+{
+	"home_page_title": "Hub Original",
+	"menus": {
+		"primary": "Primary"
+	},
+	"templates": {
+		"header-template": "Hub Original Header",
+		"footer-template": "Original Hub – Main Footer"
+	},
+	"content_plugins": {
+		"liquid_js_composer": "Liquid WP Bakery Page Builder",
+        "hub-portfolio": "Hub Portfolio",
+        "liquid-gdpr": "Liquid GDPR Box"
+	}
+}
