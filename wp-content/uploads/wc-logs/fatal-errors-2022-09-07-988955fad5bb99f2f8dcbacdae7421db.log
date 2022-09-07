@@ -1,0 +1,68 @@
+2022-09-07T11:38:47+00:00 CRITICAL Uncaught Error: Call to undefined function liquid_helper() in /Applications/MAMP/htdocs/enge/wp-content/plugins/hub-core/extensions/redux-typekit/redux-typekit.php:81
+Stack trace:
+#0 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(307): Liquid_Typekit->typekit_js('')
+#1 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/enge/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/enge/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#4 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts('')
+#5 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /Applications/MAMP/htdocs/enge/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#7 /Applications/MAMP/htdocs/enge/wp-includes/general-template.php(3042): do_action('wp_head')
+#8 /Applications/MAMP/htdocs/enge/wp-includes/template-canvas.php(17): wp_head()
+#9 /Applications/MAMP/htdocs/enge/wp-includes/template-loader.php(106): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/enge/wp-blog-header.php(19): require_once('/Applications/M...')
+#11 /Applications/MAMP/htdocs/enge/index.php(17): require('/Applications/M...')
+#12 {main}
+  thrown in /Applications/MAMP/htdocs/enge/wp-content/plugins/hub-core/extensions/redux-typekit/redux-typekit.php on line 81
+
+2022-09-07T11:38:56+00:00 CRITICAL Uncaught Error: Call to undefined function liquid_helper() in /Applications/MAMP/htdocs/enge/wp-content/plugins/hub-core/extensions/redux-typekit/redux-typekit.php:81
+Stack trace:
+#0 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(307): Liquid_Typekit->typekit_js('')
+#1 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/enge/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/enge/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#4 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts('')
+#5 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /Applications/MAMP/htdocs/enge/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#7 /Applications/MAMP/htdocs/enge/wp-includes/general-template.php(3042): do_action('wp_head')
+#8 /Applications/MAMP/htdocs/enge/wp-includes/template-canvas.php(17): wp_head()
+#9 /Applications/MAMP/htdocs/enge/wp-includes/template-loader.php(106): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/enge/wp-blog-header.php(19): require_once('/Applications/M...')
+#11 /Applications/MAMP/htdocs/enge/index.php(17): require('/Applications/M...')
+#12 {main}
+  thrown in /Applications/MAMP/htdocs/enge/wp-content/plugins/hub-core/extensions/redux-typekit/redux-typekit.php on line 81
+
+2022-09-07T11:39:01+00:00 CRITICAL Uncaught Error: Call to undefined function liquid_helper() in /Applications/MAMP/htdocs/enge/wp-content/plugins/hub-core/extensions/redux-typekit/redux-typekit.php:81
+Stack trace:
+#0 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(307): Liquid_Typekit->typekit_js('')
+#1 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/enge/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/enge/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#4 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts('')
+#5 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /Applications/MAMP/htdocs/enge/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#7 /Applications/MAMP/htdocs/enge/wp-includes/general-template.php(3042): do_action('wp_head')
+#8 /Applications/MAMP/htdocs/enge/wp-includes/template-canvas.php(17): wp_head()
+#9 /Applications/MAMP/htdocs/enge/wp-includes/template-loader.php(106): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/enge/wp-blog-header.php(19): require_once('/Applications/M...')
+#11 /Applications/MAMP/htdocs/enge/index.php(17): require('/Applications/M...')
+#12 {main}
+  thrown in /Applications/MAMP/htdocs/enge/wp-content/plugins/hub-core/extensions/redux-typekit/redux-typekit.php on line 81
+
+2022-09-07T11:39:05+00:00 CRITICAL Uncaught Error: Call to undefined function liquid_helper() in /Applications/MAMP/htdocs/enge/wp-content/plugins/hub-core/extensions/redux-typekit/redux-typekit.php:81
+Stack trace:
+#0 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(307): Liquid_Typekit->typekit_js('')
+#1 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/enge/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/enge/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#4 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts('')
+#5 /Applications/MAMP/htdocs/enge/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /Applications/MAMP/htdocs/enge/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#7 /Applications/MAMP/htdocs/enge/wp-includes/general-template.php(3042): do_action('wp_head')
+#8 /Applications/MAMP/htdocs/enge/wp-includes/template-canvas.php(17): wp_head()
+#9 /Applications/MAMP/htdocs/enge/wp-includes/template-loader.php(106): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/enge/wp-blog-header.php(19): require_once('/Applications/M...')
+#11 /Applications/MAMP/htdocs/enge/index.php(17): require('/Applications/M...')
+#12 {main}
+  thrown in /Applications/MAMP/htdocs/enge/wp-content/plugins/hub-core/extensions/redux-typekit/redux-typekit.php on line 81
+
